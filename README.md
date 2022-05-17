@@ -1,71 +1,41 @@
-# Getting Started with Create React App
+# Frontend Mentor - Job listings with filtering
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Design preview for Job listings with filtering](./design/desktop-design.jpg)
 
-## Available Scripts
+## Welcome! 👋
 
-In the project directory, you can run:
+Hello! Thanks for cheking out this repository.
 
-### `npm start`
+## What is it about
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+It's a solution of a junior challange called "Job listings with filtering" made by Frontend Mentor.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Here is the link of the challange-
+https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5
 
-### `npm test`
+Here is Demo -
+https://vantuan0101-job-listing.netlify.app/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Source code : https://github.com/vantuan0101/job-listing
 
-### `npm run build`
+You can see my POST on Fontend Mentor : https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt/hub/using-tailwindcss-react-javascript-9ISYn20QTk
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Built with
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-HTML
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-TailwindCSS 
 
-### `npm run eject`
+-Javascript
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-ReactJS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Author
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Facebook -[Văn Tuấn] https://www.facebook.com/vantuan0101
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Frontend Mentor - https://www.frontendmentor.io/profile/vantuan0101
 
-## Learn More
+### Any suggestion
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# job-listing
+I would be glad and greatful if you could leave any suggestion for this project or about anything else. Have a good day :)
